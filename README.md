@@ -1,1 +1,16 @@
 # Sentiment-Analysis
+
+*COMPANY*: CODTECH IT SOLUTION
+
+*NAME*: NEHA KARAL
+
+*INTERN ID*: CT08DY1991
+
+*DOMAIN*: DATA ANALYST
+
+*DURATION*: 8 WEEKS
+
+MENTOR*: NEELA SANTOSH
+
+**Project Title: Sentiment Analysis**
+
