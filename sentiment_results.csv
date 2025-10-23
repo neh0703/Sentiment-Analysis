@@ -1,0 +1,201 @@
+User ID,User Name,Window,Label,Review Text,Cleaned Review Text,Sentiment
+U0522,Neha Gupta,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0738,Neha Gupta,Amazon,Negative,"Poor quality material, not worth the price.",poor quality material worth price,Negative
+U0741,Anjali Kapoor,Flipkart,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0661,Priya Sharma,Flipkart,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0412,Neha Gupta,Amazon,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0679,Pooja Sethi,Amazon,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0627,Pooja Sethi,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0514,Neha Gupta,Flipkart,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0860,Pooja Sethi,Flipkart,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0137,Sneha Rani,Flipkart,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0812,Priya Sharma,Flipkart,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0077,Rahul Mehta,Flipkart,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0637,Vikram Malhotra,Flipkart,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0974,Amit Verma,Amazon,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0939,Vikram Malhotra,Flipkart,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0900,Amit Verma,Flipkart,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0281,Priya Sharma,Amazon,Negative,"Poor quality material, not worth the price.",poor quality material worth price,Negative
+U0884,Rahul Mehta,Amazon,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0762,Amit Verma,Amazon,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0320,Sneha Rani,Flipkart,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0550,Vikram Malhotra,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0175,Karan Singh,Flipkart,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0372,Vikram Malhotra,Flipkart,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0528,Sneha Rani,Flipkart,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0211,Anjali Kapoor,Flipkart,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0236,Sneha Rani,Amazon,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0102,Rohit Yadav,Amazon,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0987,Rohit Yadav,Flipkart,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0903,Karan Singh,Flipkart,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0948,Amit Verma,Amazon,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0347,Anjali Kapoor,Amazon,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0140,Neha Gupta,Flipkart,Negative,"Poor quality material, not worth the price.",poor quality material worth price,Negative
+U0622,Priya Sharma,Flipkart,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0500,Anjali Kapoor,Amazon,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0371,Sneha Rani,Flipkart,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0199,Neha Gupta,Amazon,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0688,Anjali Kapoor,Flipkart,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0585,Anjali Kapoor,Flipkart,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0902,Anjali Kapoor,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0060,Pooja Sethi,Flipkart,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0329,Pooja Sethi,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0097,Rahul Mehta,Flipkart,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0313,Sneha Rani,Flipkart,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0975,Rahul Mehta,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0300,Neha Gupta,Flipkart,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0278,Amit Verma,Flipkart,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0925,Rahul Mehta,Amazon,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0602,Priya Sharma,Amazon,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0440,Pooja Sethi,Flipkart,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0838,Karan Singh,Amazon,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0571,Vikram Malhotra,Amazon,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0880,Rahul Mehta,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0262,Neha Gupta,Flipkart,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0579,Neha Gupta,Flipkart,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0024,Rohit Yadav,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0031,Anjali Kapoor,Flipkart,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0618,Amit Verma,Flipkart,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0011,Karan Singh,Amazon,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0222,Anjali Kapoor,Flipkart,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0821,Neha Gupta,Flipkart,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0297,Pooja Sethi,Amazon,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0055,Sneha Rani,Amazon,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0543,Vikram Malhotra,Flipkart,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0210,Vikram Malhotra,Amazon,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0605,Vikram Malhotra,Flipkart,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0693,Karan Singh,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0663,Neha Gupta,Amazon,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0867,Rahul Mehta,Flipkart,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0071,Vikram Malhotra,Flipkart,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0544,Anjali Kapoor,Flipkart,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0108,Rahul Mehta,Amazon,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0494,Karan Singh,Flipkart,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0591,Karan Singh,Flipkart,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0742,Rohit Yadav,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0293,Priya Sharma,Amazon,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0290,Sneha Rani,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0653,Priya Sharma,Flipkart,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0040,Vikram Malhotra,Amazon,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0590,Amit Verma,Amazon,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0308,Amit Verma,Amazon,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0680,Priya Sharma,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0067,Neha Gupta,Amazon,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0276,Anjali Kapoor,Amazon,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0068,Sneha Rani,Amazon,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0319,Rohit Yadav,Amazon,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0549,Anjali Kapoor,Flipkart,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0999,Rohit Yadav,Flipkart,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0715,Amit Verma,Amazon,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0754,Rohit Yadav,Flipkart,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0328,Vikram Malhotra,Amazon,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0383,Rahul Mehta,Flipkart,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0452,Pooja Sethi,Amazon,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0523,Rahul Mehta,Flipkart,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0219,Sneha Rani,Flipkart,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0788,Neha Gupta,Amazon,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0437,Neha Gupta,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0765,Neha Gupta,Flipkart,Negative,"Poor quality material, not worth the price.",poor quality material worth price,Negative
+U0089,Neha Gupta,Flipkart,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0064,Neha Gupta,Amazon,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0827,Neha Gupta,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0717,Neha Gupta,Amazon,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0352,Rohit Yadav,Amazon,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0937,Pooja Sethi,Flipkart,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0257,Sneha Rani,Flipkart,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0636,Vikram Malhotra,Amazon,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0645,Pooja Sethi,Flipkart,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0555,Pooja Sethi,Flipkart,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0960,Amit Verma,Flipkart,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0169,Vikram Malhotra,Flipkart,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0918,Vikram Malhotra,Flipkart,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0529,Pooja Sethi,Flipkart,Negative,"Poor quality material, not worth the price.",poor quality material worth price,Negative
+U0824,Vikram Malhotra,Amazon,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0986,Rahul Mehta,Amazon,Negative,"Poor quality material, not worth the price.",poor quality material worth price,Negative
+U0817,Amit Verma,Amazon,Negative,"Poor quality material, not worth the price.",poor quality material worth price,Negative
+U0087,Sneha Rani,Flipkart,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0433,Rohit Yadav,Flipkart,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0185,Priya Sharma,Amazon,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0979,Pooja Sethi,Flipkart,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0535,Amit Verma,Amazon,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0295,Anjali Kapoor,Flipkart,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0893,Rahul Mehta,Amazon,Negative,"Poor quality material, not worth the price.",poor quality material worth price,Negative
+U0426,Rohit Yadav,Flipkart,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0714,Anjali Kapoor,Amazon,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0261,Priya Sharma,Amazon,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0238,Anjali Kapoor,Amazon,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0560,Anjali Kapoor,Flipkart,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0584,Rohit Yadav,Flipkart,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0446,Amit Verma,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0868,Karan Singh,Flipkart,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0801,Rohit Yadav,Flipkart,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0600,Pooja Sethi,Amazon,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0850,Amit Verma,Flipkart,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0266,Karan Singh,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0996,Pooja Sethi,Amazon,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0530,Neha Gupta,Flipkart,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0056,Sneha Rani,Amazon,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0121,Priya Sharma,Amazon,Negative,"Poor quality material, not worth the price.",poor quality material worth price,Negative
+U0216,Rohit Yadav,Flipkart,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0026,Vikram Malhotra,Amazon,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0073,Priya Sharma,Amazon,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0045,Amit Verma,Flipkart,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0248,Amit Verma,Flipkart,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0722,Rohit Yadav,Flipkart,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0282,Karan Singh,Amazon,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0894,Vikram Malhotra,Flipkart,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0915,Neha Gupta,Flipkart,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0811,Pooja Sethi,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0245,Rahul Mehta,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0823,Pooja Sethi,Flipkart,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0322,Karan Singh,Amazon,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0644,Pooja Sethi,Amazon,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0159,Neha Gupta,Flipkart,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0978,Rahul Mehta,Flipkart,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0430,Priya Sharma,Amazon,Neutral,"It's functional, but I have seen better options.",functional seen better options,Positive
+U0942,Neha Gupta,Flipkart,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0463,Rohit Yadav,Flipkart,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0310,Vikram Malhotra,Amazon,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0698,Amit Verma,Flipkart,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0061,Vikram Malhotra,Flipkart,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0885,Sneha Rani,Amazon,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0596,Rahul Mehta,Amazon,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0768,Neha Gupta,Amazon,Neutral,"The product is okay, works as described but nothing exceptional.",product okay works described nothing exceptional,Positive
+U0650,Pooja Sethi,Amazon,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
+U0651,Sneha Rani,Amazon,Negative,Customer service was unhelpful when I tried to return it.,customer service unhelpful tried return,Neutral
+U0866,Anjali Kapoor,Flipkart,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0669,Amit Verma,Flipkart,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0299,Karan Singh,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0690,Karan Singh,Flipkart,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0315,Karan Singh,Flipkart,Negative,Completely disappointed — it stopped working after two days.,completely disappointed stopped working two days,Negative
+U0311,Sneha Rani,Flipkart,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0362,Sneha Rani,Amazon,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0480,Karan Singh,Amazon,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0111,Neha Gupta,Flipkart,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0990,Amit Verma,Amazon,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0487,Sneha Rani,Amazon,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0364,Sneha Rani,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0255,Anjali Kapoor,Amazon,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0260,Pooja Sethi,Flipkart,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0803,Pooja Sethi,Amazon,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0678,Karan Singh,Flipkart,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0495,Amit Verma,Flipkart,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0671,Rohit Yadav,Amazon,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0378,Priya Sharma,Amazon,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0527,Anjali Kapoor,Amazon,Positive,Very comfortable to wear and looks stylish.,comfortable wear looks stylish,Positive
+U0846,Pooja Sethi,Amazon,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0138,Pooja Sethi,Amazon,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0356,Karan Singh,Amazon,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0366,Vikram Malhotra,Amazon,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0943,Anjali Kapoor,Amazon,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0750,Anjali Kapoor,Flipkart,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0949,Anjali Kapoor,Flipkart,Negative,The product arrived damaged and unusable.,product arrived damaged unusable,Negative
+U0830,Rohit Yadav,Amazon,Positive,This phone’s battery lasts all day and the camera quality is stunning!,phones battery lasts day camera quality stunning,Positive
+U0657,Neha Gupta,Flipkart,Negative,Very slow and lags constantly.,slow lags constantly,Negative
+U0200,Pooja Sethi,Amazon,Positive,Excellent build quality and fast performance.,excellent build quality fast performance,Positive
+U0214,Rahul Mehta,Flipkart,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0409,Vikram Malhotra,Flipkart,Neutral,"Packaging was fine, but delivery took longer than expected.",packaging fine delivery took longer expected,Positive
+U0333,Vikram Malhotra,Flipkart,Positive,The product exceeded my expectations in every way.,product exceeded expectations every way,Neutral
+U0209,Karan Singh,Amazon,Neutral,"Average quality, neither too good nor too bad.",average quality neither good bad,Positive
+U0614,Sneha Rani,Flipkart,Positive,"Lightweight and easy to use, definitely worth the price.",lightweight easy use definitely worth price,Positive
+U0079,Sneha Rani,Flipkart,Neutral,The color is slightly different from the pictures but still fine.,color slightly different pictures still fine,Positive
