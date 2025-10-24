@@ -29,5 +29,6 @@ Moreover, the insights generated from this analysis can be used in multiple doma
  
 **Output**
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ceaac3d-bd1b-4b0f-8264-15442c52e698" />
 
 
