@@ -27,8 +27,6 @@ The deliverable for this internship task is a **Google Collab Notebook** that cl
 Through this task, I gain hand-on experience in data preprocessing, NLP pipeline building, and sentiment modeling. It will enhance analytical thinking and technical skills in handling real-world textual data.
 Moreover, the insights generated from this analysis can be used in multiple domains-marketing, customer service, product development, and social media monitoring.
  
-**Output**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3ceaac3d-bd1b-4b0f-8264-15442c52e698" />
 
 
